@@ -14,7 +14,7 @@ Email Me 👉 ✉️ smedhi639@gmail.com For Collaboration/Project or Anything E
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiran medhi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@1starsamiran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smedhi639@gmail.com) 
 
 <div align="center">
-  <img src="https://github.com/coder-441/coder-441-/blob/main/video%20(1).gif" width="700" alt="Demo video"/>
+  <img src="https://github.com/coder-441/coder-441-/blob/main/video%20(1).gif" width="800" height="300" alt="Demo video"/>
 </div>
 
 # 💻 Tech Stack:
